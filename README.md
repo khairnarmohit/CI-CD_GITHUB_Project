@@ -1,2 +1,2 @@
 HEllo
-THis is CICD for WEBSITE Responsive
+THis is CICD for WEBSITE Responsive web
